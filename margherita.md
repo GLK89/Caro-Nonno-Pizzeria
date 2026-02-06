@@ -1,6 +1,7 @@
 # Margherita Pizza
 
 Ingredients:
+
 - Dough
 - Tomato sauce
 - Mozzarella
@@ -8,3 +9,5 @@ Ingredients:
 
 Instructions:
 Bake at 220°C for 12 minutes
+
+Tip: Add extra mozzarella for more flavor.
