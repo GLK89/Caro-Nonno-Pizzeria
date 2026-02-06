@@ -13,3 +13,5 @@ Instructions:
 3. Add mozzarella and pepperoni
 4. Sprinkle oregano
 5. Bake 12–15 minutes
+
+Tip: Use spicy pepperoni for extra kick.
