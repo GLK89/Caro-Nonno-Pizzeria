@@ -11,3 +11,4 @@ Instructions:
 Bake at 220°C for 12 minutes
 
 Tip: Add extra mozzarella for more flavor.
+Tip: Use fresh basil for best flavor.
