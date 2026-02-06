@@ -1,6 +1,7 @@
 # Funghi Pizza
 
 Ingredients:
+
 - Pizza dough
 - Tomato sauce
 - Mozzarella
@@ -9,8 +10,11 @@ Ingredients:
 - Olive oil
 
 Instructions:
+
 1. Preheat oven to 220°C
 2. Fry mushrooms with garlic
 3. Spread sauce on dough
 4. Add mozzarella and mushrooms
 5. Bake 12 minutes
+
+Tip: Use fresh mushrooms for best taste.
