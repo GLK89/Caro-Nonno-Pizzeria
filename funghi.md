@@ -18,3 +18,4 @@ Instructions:
 5. Bake 12 minutes
 
 Tip: Use fresh mushrooms for best taste.
+Tip: Add a little truffle oil.
