@@ -6,6 +6,7 @@ Ingredients:
 - Tomato sauce
 - Mozzarella
 - Basil
+- Oregano
 
 Instructions:
 Bake at 220°C for 12 minutes
