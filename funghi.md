@@ -8,6 +8,7 @@ Ingredients:
 - Mushrooms
 - Garlic
 - Olive oil
+- Oregano
 
 Instructions:
 
